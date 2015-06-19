@@ -7,7 +7,7 @@ module Spina
     self.title = 'Beoordelingen'
     self.controller = 'reviews'
     self.description = 'Beheer de beoordelingen van je klanten'
-    self.spina_icon = '4'
+    self.spina_icon = 'pencil-outline'
 
     self.plugin_type = 'website_resource'
   end
