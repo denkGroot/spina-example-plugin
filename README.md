@@ -9,7 +9,7 @@ This is a Spina CMS plugin example, this project is meant to be cut into a gem a
 To start using this project locally, first clone it and add the following lines to your Gemfile:
 
 ```
-gem 'spina-review', path: '/path/to/the/project'
+gem 'spina-reviews', path: '/path/to/the/project'
 ```
 
 Make sure you run the migration installer to get started.
